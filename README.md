@@ -2,9 +2,9 @@
 
 **Instituto Tecnológico Superior de Xalapa (ITSX)**  
 **División de Ingeniería en Sistemas Computacionales**  
-**Asignatura:** Estructura de Datos (AED-1026)  
+**Asignatura:** Estructura de Datos  
 **Docente:** Mtro. Víctor Hugo Vásquez Herrera  
-**Alumno:** González Ramírez Gerardo (No. Control: 247O02562), Pale Mendoza Alan Cristopher (No. Control: 247O00961)
+**Alumno:** González Ramírez Gerardo (No. Control: 247O02562), Pale Mendoza Alan Cristopher (No. Control: 247O00961) 
 **Semestre:** Sabatino — Noviembre 2026  
 
 ---
