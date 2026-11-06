@@ -4,7 +4,7 @@
 **División de Ingeniería en Sistemas Computacionales**  
 **Asignatura:** Estructura de Datos (AED-1026)  
 **Docente:** Mtro. Víctor Hugo Vásquez Herrera  
-**Alumno:** Gerardo González Ramírez (No. Control: 247O02562)  
+**Alumno:** González Ramírez Gerardo (No. Control: 247O02562), Pale Mendoza Alan Cristopher (No. Control: 247O00961)
 **Semestre:** Sabatino — Noviembre 2026  
 
 ---
